@@ -1,9 +1,9 @@
 # Xcode-Markdown-Renderer
 
 
-This is easier than you think: 
+This is easier than you think, clone this project and:
 
-1) just type 
+1) just type your file project name adding the plist
 
      touch myProject.xcodeproj/.xcodesamplecode.plist
 
